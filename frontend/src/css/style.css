@@ -1,0 +1,16 @@
+
+html, body {
+    height: 100%;
+    font-size: 90%;
+    color: #666;
+}
+
+.mainContainer {
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+#usersForm {
+    padding-top: 2.5em;
+    padding-right: 2.5em;
+}
